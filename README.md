@@ -1,4 +1,4 @@
-# LispHTMLGenerator
+# LispHTMLGenerator (CLHTML)
 A simple .html page/site generator written in Common Lisp 
 
 ## Installation
