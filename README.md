@@ -11,6 +11,20 @@ See "intro.md" for detailed information
 
 To run this program, you need a Common Lisp REPL: I used CLisp to test this project, which can be found [here](http://www.gnu.org/software/clisp/)
 
+In the REPL, type 
+  
+    $ (load "clhtml.lisp")
+  
+Assuming that clhtml.lisp is in your Home directory
+
+
+If your clhtml.lisp is NOT in your Home directory, type
+
+    $ (load "/path/clhtml.lisp")
+
+"/path/" being where/what folder clhtml.lisp is stored in
+
+
 ## Bugs
 
 Bugs have yet to be reported!
